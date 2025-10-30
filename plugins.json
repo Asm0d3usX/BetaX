@@ -1,0 +1,19 @@
+[
+  {
+    "iconUrl": "https://tv9.idlixku.com/wp-content/uploads/2021/04/appicon.png",
+    "jarFileSize": 94324,
+    "apiVersion": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/Asm0d3usX",
+    "fileSize": 24252,
+    "status": 1,
+    "language": "id",
+    "authors": ["Hexated", "Asm0d3usX"],
+    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "version": 19,
+    "internalName": "Idlix",
+    "description": "🎬 & 🎭 Subtitle Indonesia 🇮🇩",
+    "jarUrl": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.jar",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.cs3",
+    "name": "Idlix"
+  }
+]
