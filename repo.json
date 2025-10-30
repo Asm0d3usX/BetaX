@@ -1,0 +1,8 @@
+{
+  "name": "BetaX",
+  "description": "BetaX - Testing repository cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/plugins.json"
+  ]
+}
