@@ -1,6 +1,7 @@
 {
   "name": "BetaX",
   "description": "BetaX - Testing repository cloudstream",
+  "iconUrl": "https://cdn-icons-png.flaticon.com/512/4954/4954379.png",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/plugins.json"
