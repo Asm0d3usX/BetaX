@@ -1,19 +1,17 @@
 [
   {
-    "iconUrl": "https://tv9.idlixku.com/wp-content/uploads/2021/04/appicon.png",
-    "jarFileSize": 94324,
+    "iconUrl": "https://moviebox.ph/favicon.ico",
     "apiVersion": 1,
-    "repositoryUrl": "https://raw.githubusercontent.com/Asm0d3usX",
-    "fileSize": 24252,
+    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "fileSize": 27327,
     "status": 1,
     "language": "id",
     "authors": ["Hexated", "Asm0d3usX"],
     "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
-    "version": 19,
-    "internalName": "Idlix",
-    "description": "🎬 & 🎭 Subtitle Indonesia 🇮🇩",
-    "jarUrl": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.jar",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Idlix.cs3",
-    "name": "Idlix"
+    "version": 1,
+    "internalName": "MovieBox",
+    "description": "🎬 Movie Subtitle Indonesia",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Moviebox.cs3",
+    "name": "MovieBox"
   }
 ]
