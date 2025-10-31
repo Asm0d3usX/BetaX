@@ -1,17 +1,17 @@
 [
   {
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3420/3420333.png",
+    "iconUrl": "https://jepangmantap.com/wp-content/uploads/2024/10/cropped-pavicon-1-60x60.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
     "fileSize": 27327,
     "status": 1,
     "language": "id",
     "authors": ["Hexated", "Asm0d3usX"],
-    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "Rebahin",
+    "internalName": "J-AV",
     "description": "🎬 Japan Subtitle Indonesia",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Rebahin.cs3",
-    "name": "Rebahin"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/J-AV.cs3",
+    "name": "J-AV"
   }
 ]
