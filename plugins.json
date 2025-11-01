@@ -6,12 +6,27 @@
     "fileSize": 27327,
     "status": 1,
     "language": "id",
-    "authors": ["Hexated", "Asm0d3usX"],
+    "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
     "internalName": "WGFilm21",
     "description": "🎬 Movies Subtitle Indonesia",
     "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/WGFilm21.cs3",
     "name": "WGFilm21"
+  },
+  {
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/960px-Canal_Viva_2018_wordmark.svg.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "fileSize": 18327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["Movie"],
+    "version": 1,
+    "internalName": "VivaX",
+    "description": "🎬 Movies Subtitle Indonesia",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/VivaX.cs3",
+    "name": "VivaX"
   }
 ]
