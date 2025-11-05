@@ -10,7 +10,7 @@
    Jika belum punya, download [DISINI](https://github.com/recloudstream/cloudstream/releases)  
 2. Masuk ke menu **"Ekstensi"**  
 3. Klik tombol **"Tambahkan Repositori"**  
-4. Masukkan URL repositori CloudX:  
+4. Masukkan URL repositori BetaX:  
    - https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/repo.json  
    - Atau cukup klik [DISINI](https://shorturl.at/xwhmc)  
 5. Klik **"Tambahkan"**  
