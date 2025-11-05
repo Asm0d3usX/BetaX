@@ -1,47 +1,17 @@
 [
   {
-    "iconUrl": "https://play5.layarwarna21.tv/wp-content/uploads/2023/06/cropped-FAV-ICON-2-60x60.png",
+    "iconUrl": "https://mailchimp.com/ctf/images/yzco4xsimv0y/1xAApAHF4yy7V4PUAUMCPt/5a98bde39a699f6de1caaa5a646e1a47/MailChimp_Blog_Post_-29_graphic_-2__2_.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 27327,
+    "fileSize": 20327,
     "status": 1,
     "language": "id",
     "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "LayarWarna",
+    "internalName": "Sarangfilm",
     "description": "🎬 Movies Subtitle Indonesia",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/LayarWarna.cs3",
-    "name": "LayarWarna"
-  },
-  {
-    "iconUrl": "https://cdn-icons-png.flaticon.com/512/5978/5978100.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 18327,
-    "status": 1,
-    "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["Movie"],
-    "version": 1,
-    "internalName": "Unknown",
-    "description": "🎬 Movies Subtitle Indonesia",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Unknown.cs3",
-    "name": "Unknown"
-  },
-  {
-    "iconUrl": "https://user-images.githubusercontent.com/4090627/73133413-7ee49300-4028-11ea-84ad-dec302fb3aa5.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-    "fileSize": 18327,
-    "status": 1,
-    "language": "id",
-    "authors": ["Asm0d3usX"],
-    "tvTypes": ["Movie"],
-    "version": 1,
-    "internalName": "LayarKaca",
-    "description": "🎬 Movie Subtitle Indonesia",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/LayarKaca.cs3",
-    "name": "LayarKaca"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Sarangfilm.cs3",
+    "name": "Sarangfilm"
   }
 ]
