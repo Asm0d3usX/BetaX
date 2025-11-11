@@ -13,5 +13,20 @@
     "description": "🎬 Movies Subtitle Indonesia",
     "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Indomax.cs3",
     "name": "Indomax"
+  },
+  {
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "fileSize": 26327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["Movie"],
+    "version": 1,
+    "internalName": "Filmkita",
+    "description": "🎬 Movies Subtitle Indonesia",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Filmkita.cs3",
+    "name": "Filmkita"
   }
 ]
