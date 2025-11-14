@@ -1,0 +1,9 @@
+{
+  "name": "BetaX",
+  "description": "BetaX - Testing repository cloudstream",
+  "iconUrl": "https://user-images.githubusercontent.com/4090627/73133413-7ee49300-4028-11ea-84ad-dec302fb3aa5.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json"
+  ]
+}
