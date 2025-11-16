@@ -9,9 +9,9 @@
     "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "Rebahin",
-    "description": "Include : 🌍 Rebahin, 🌍 Kitanonton, 🌍 CGVIndo",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Rebahin.cs3",
-    "name": "Rebahin"
+    "internalName": "Savefilm",
+    "description": "🎬 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Savefilm.cs3",
+    "name": "Savefilm"
   }
 ]
