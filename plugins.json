@@ -9,9 +9,9 @@
     "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "Moviebox",
+    "internalName": "DramaID",
     "description": "🎬 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Moviebox.cs3",
-    "name": "Moviebox"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/DramaID.cs3",
+    "name": "DramaID"
   }
 ]
