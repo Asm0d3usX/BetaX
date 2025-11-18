@@ -39,9 +39,9 @@
     "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "Dutafilm",
+    "internalName": "Filmlokal",
     "description": "🎬 Streaming Movie and TV Series",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Dutafilm.cs3",
-    "name": "Dutafilm"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Filmlokal.cs3",
+    "name": "Filmlokal"
   }
 ]
