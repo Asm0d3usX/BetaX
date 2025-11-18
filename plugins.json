@@ -28,5 +28,20 @@
     "description": "🎬 Streaming Movie and TV Series",
     "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/IndoXXi.cs3",
     "name": "IndoXXi"
+  },
+  {
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "fileSize": 17327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["Movie"],
+    "version": 1,
+    "internalName": "Dutafilm",
+    "description": "🎬 Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Dutafilm.cs3",
+    "name": "Dutafilm"
   }
 ]
