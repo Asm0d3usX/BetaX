@@ -1,7 +1,7 @@
 {
   "name": "BetaX",
-  "description": "BetaX - Testing repository cloudstream",
-  "iconUrl": "https://user-images.githubusercontent.com/4090627/73133413-7ee49300-4028-11ea-84ad-dec302fb3aa5.png",
+  "description": "BetaX - Testing Cloudstream Repository",
+  "iconUrl": "https://i.ibb.co.com/DPRsVmb2/360-F-1731747667-9e3-G9pni-Btz-LZWUb-Rp-HAu23j-FH7-HQc-RS-removebg-preview.png",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/plugins.json"
