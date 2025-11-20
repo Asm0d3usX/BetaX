@@ -90,6 +90,21 @@
     "name": "Kurakura"
   },
   {
+    "iconUrl": "https://sextb.net/images/icons/favicon-96x96.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 12755,
+    "status": 1,
+    "language": "en",
+    "authors": ["luck731", "Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Sextb",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Sextb.cs3",
+    "name": "Sextb"
+  },
+  {
     "iconUrl": "https://supjav.com/img/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
@@ -105,6 +120,7 @@
     "name": "Superjav"
   }
 ]
+
 
 
 
