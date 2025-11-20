@@ -1,0 +1,62 @@
+[
+  {
+    "iconUrl": "https://areajav.com/wp-content/uploads/2025/07/cropped-site-icon-04-purple.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 17327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Areajav",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Areajav.cs3",
+    "name": "Areajav"
+  },
+  {
+    "iconUrl": "https://tv1.javplix.org/wp-content/uploads/2024/12/icon-javplix-grey.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 17327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Javflix",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Javflix.cs3",
+    "name": "Javflix"
+  },
+  {
+    "iconUrl": "https://jepangmantap.com/wp-content/uploads/2024/10/cropped-pavicon-1.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 17327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Javmoon",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Javmoon.cs3",
+    "name": "Javmoon"
+  },
+  {
+    "iconUrl": "https://kurakura21.net/wp-content/uploads/2025/02/cropped-favicon.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 17327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Kurakura",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Kurakura.cs3",
+    "name": "Kurakura"
+  }
+]
