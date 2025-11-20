@@ -18,3 +18,7 @@
 7. Pilih ekstensi yang ingin diinstal dan klik **"Instal"** ✅
 
 ---
+
+## 🌍 Plugin NSFW
+
+Untuk yang mau menambahkan repository nsfw nya jangan lupa di aktifin di cloudstream, bawaan otomatis mati untuk di cloudstream
