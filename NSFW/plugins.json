@@ -15,6 +15,36 @@
     "name": "Areajav"
   },
   {
+    "iconUrl": "https://javhd.today/favicon-96x96.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 23327,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "JavHD",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/JavHD.cs3",
+    "name": "JavHD"
+  },
+  {
+    "iconUrl": "https://i.ibb.co.com/LDCfqLJQ/favicon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 33352,
+    "status": 1,
+    "language": "id",
+    "authors": ["Phisher98", "Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "JavPoint",
+    "description": "🔞 Include : Javangel, Javenglish, Javgg, Javguru",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/JavPoint.cs3",
+    "name": "JavPoint"
+  },
+  {
     "iconUrl": "https://tv1.javplix.org/wp-content/uploads/2024/12/icon-javplix-grey.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
@@ -58,6 +88,21 @@
     "description": "🔞 Streaming 18+ Movie",
     "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Kurakura.cs3",
     "name": "Kurakura"
+  },
+  {
+    "iconUrl": "https://kurakura21.net/wp-content/uploads/2025/02/cropped-favicon.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 15677,
+    "status": 1,
+    "language": "id",
+    "authors": ["Phisher98", "Asm0d3usX"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Superjav",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Superjav.cs3",
+    "name": "Superjav"
   }
-
 ]
+
