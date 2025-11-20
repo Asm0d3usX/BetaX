@@ -3,7 +3,7 @@
     "iconUrl": "https://areajav.com/wp-content/uploads/2025/07/cropped-site-icon-04-purple.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
-    "fileSize": 17327,
+    "fileSize": 23327,
     "status": 1,
     "language": "id",
     "authors": ["Asm0d3usX"],
@@ -18,7 +18,7 @@
     "iconUrl": "https://tv1.javplix.org/wp-content/uploads/2024/12/icon-javplix-grey.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
-    "fileSize": 17327,
+    "fileSize": 18327,
     "status": 1,
     "language": "id",
     "authors": ["Asm0d3usX"],
@@ -48,7 +48,7 @@
     "iconUrl": "https://kurakura21.net/wp-content/uploads/2025/02/cropped-favicon.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
-    "fileSize": 17327,
+    "fileSize": 14327,
     "status": 1,
     "language": "id",
     "authors": ["Asm0d3usX"],
@@ -59,4 +59,5 @@
     "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/Kurakura.cs3",
     "name": "Kurakura"
   }
+
 ]
