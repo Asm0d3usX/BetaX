@@ -22,7 +22,7 @@
 ## 🌍 Plugin NSFW
 
 Untuk yang mau menambahkan repository NSFW nya jangan lupa di aktifin di cloudstream, bawaan otomatis mati untuk di cloudstream
-- URL NFSW : https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/repo.json
+- URL NSFW : https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/repo.json
 - Atau klik [DISINI](https://shorturl.at/pekJ4)
 
 ---
