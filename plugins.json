@@ -2,16 +2,16 @@
   {
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
     "fileSize": 17327,
     "status": 1,
     "language": "id",
     "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "Example",
+    "internalName": "AnimeIndo",
     "description": "⚙️ Beta Test Only",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Example.cs3",
-    "name": "Example"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/AnimeIndo.cs3",
+    "name": "AnimeIndo"
   }
 ]
