@@ -1,0 +1,17 @@
+[
+  {
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
+    "fileSize": 20000,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["Movie"],
+    "version": 1,
+    "internalName": "Film21",
+    "description": "⚙️ Beta Test Only",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Film21.cs3",
+    "name": "Film21"
+  }
+]

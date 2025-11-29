@@ -1,0 +1,9 @@
+{
+  "name": "JavX",
+  "description": "🔞 NSFW Cloudstream Repository",
+  "iconUrl": "https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/NSFW/plugins.json"
+  ]
+}
