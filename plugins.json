@@ -9,9 +9,9 @@
     "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "Sarangfilm",
+    "internalName": "Example",
     "description": "⚙️ Beta Test Only",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Sarangfilm.cs3",
-    "name": "Sarangfilm"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Example.cs3",
+    "name": "Example"
   }
 ]
