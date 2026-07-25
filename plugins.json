@@ -3,15 +3,15 @@
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Asm0d3usX/BetaX",
-    "fileSize": 23000,
+    "fileSize": 25000,
     "status": 1,
     "language": "id",
     "authors": ["Asm0d3usX"],
     "tvTypes": ["Movie"],
     "version": 1,
-    "internalName": "Pusatfilm",
+    "internalName": "Pusatmovie",
     "description": "⚙️ Beta Test Only",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Pusatfilm.cs3",
-    "name": "Pusatfilm"
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/BetaX/builds/Pusatmovie.cs3",
+    "name": "Pusatmovie"
   }
 ]
